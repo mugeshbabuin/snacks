@@ -1,0 +1,1 @@
+window.onload= (event) =>{alert("Welcome To Mugeshbabu Snacks");};
